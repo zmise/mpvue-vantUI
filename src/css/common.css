@@ -462,3 +462,9 @@ i {font-style: normal;}
 .z-index-3{z-index: 3}
 .z-index-2{z-index: 2}
 .z-index-1{z-index: 1}
+
+.container {
+  width: 100%;
+  min-height:100%;
+  background: #f3f3f3
+}
