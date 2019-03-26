@@ -3,7 +3,8 @@
     "pages/index/main",
     "pages/booking/main",
     "pages/orderList/main",
-    "pages/myself/main"
+    "pages/myself/main",
+    "pages/demos/main"
   ],
   "window": {
     "backgroundTextStyle": "light",
